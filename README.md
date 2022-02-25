@@ -1,5 +1,5 @@
 
-# Frontend Projects
+#Frontend Projects
 
-##[QR Code Component](https://www.frontendmentor.io/slack)
+[QR Code Component](https://www.frontendmentor.io/slack)
 =======
