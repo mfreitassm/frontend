@@ -2,4 +2,4 @@
 #Frontend Projects
 =======
 
-[QR Code Component](https://www.frontendmentor.io/slack)
+[1.QR Code Component](https://github.com/mfreitassm/frontend/tree/main/qr-code-component-main)
